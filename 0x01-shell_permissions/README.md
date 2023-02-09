@@ -9,3 +9,4 @@ execute permission to the owner and the group owner, and read permission to othe
 script to permit ------rwx
 script that permit -rwxr-x-wx
  the mode of the file hello the same as olleh’s mode.
+execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
