@@ -13,3 +13,4 @@ execute permission to all subdirectories of the current directory for the owner,
 change the group owner to school for the file home
 creates a directory called my_dir with permissions 751 in the working directory.
 changes the group owner to school for the file hello
+ changes the owner and the group owner of _hello to vincent and staff
