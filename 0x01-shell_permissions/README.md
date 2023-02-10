@@ -15,3 +15,4 @@ creates a directory called my_dir with permissions 751 in the working directory.
 changes the group owner to school for the file hello
  changes the owner and the group owner of _hello to vincent and staff
 changes the owner of the file hello to betty only if it is owned by the user guillaume
+ script that will play the StarWars IV episode
