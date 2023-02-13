@@ -8,3 +8,4 @@ Write a script that displays the third line of the file iacta
  It is a good file that cuts iron without making a noise
  Save current state of directory
 duplicte the last line 
+out a line and word
