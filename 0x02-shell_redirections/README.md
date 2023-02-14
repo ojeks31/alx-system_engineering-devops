@@ -11,3 +11,4 @@ duplicte the last line
 out a line and word
  deletes all the regular files  with a .js
 counts the number of directories and sub-directories in the current directory
+Create a script that displays the 10 newest files in the current directory
