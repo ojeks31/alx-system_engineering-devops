@@ -9,3 +9,4 @@ Write a script that displays the third line of the file iacta
  Save current state of directory
 duplicte the last line 
 out a line and word
+ deletes all the regular files  with a .js
