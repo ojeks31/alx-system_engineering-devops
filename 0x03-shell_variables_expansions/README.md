@@ -1,3 +1,4 @@
 my first readme on 0x00. Shell, basics
  changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 Create a script that creates an alias.
+Create a script that prints hello user
