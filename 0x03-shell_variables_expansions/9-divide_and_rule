@@ -1,2 +1,2 @@
 #!/bin/bash
-export POWER=2 ; export DIVIDE=4 | echo $((DIVIDE/POWER))
+export POWER=2 | echo $((DIVIDE/POWER))
