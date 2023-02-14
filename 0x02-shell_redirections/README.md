@@ -10,3 +10,4 @@ Write a script that displays the third line of the file iacta
 duplicte the last line 
 out a line and word
  deletes all the regular files  with a .js
+counts the number of directories and sub-directories in the current directory
