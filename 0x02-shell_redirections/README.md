@@ -1,22 +1,3 @@
-Write a script that prints “Hello, World”
-Write a script that displays a confused smiley
-Display the content of the /etc/passwd file
-Display the content of /etc/passwd and /etc/host
-Display the last 10 lines of /etc/passwd
-Display the first 10 lines of /etc/passwd
-Write a script that displays the third line of the file iacta
- It is a good file that cuts iron without making a noise
- Save current state of directory
-duplicte the last line 
-out a line and word
- deletes all the regular files  with a .js
-counts the number of directories and sub-directories in the current directory
-Create a script that displays the 10 newest files in the current directory
-Display lines containing the pattern “root” from the file /etc/passwd
-Display the number of lines that contain the pattern “bin” in the file /etc/passwd
-what is next
-hidethisword "bin"
-Display all lines of the file /etc/ssh/sshd_config starting with a letter
-Replace all characters A and c from input to Z and e respectively.
-Write a script that reverse its input.
-Write a script that displays all users and their home directories, sorted by users.
+my first readme on 0x00. Shell, basics
+ changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+ a command that finds all empty files and directories in the current directory and all sub-directories
