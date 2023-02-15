@@ -11,3 +11,4 @@ Write a script that prints the result of the addition of 128 with the value stor
 Write a script that prints the result of POWER divided by DIVIDE, followed by a new line
 convert a binary to base
 print all possible combination of two letters
+display the result of LOVE  raise to the power of BREATH
