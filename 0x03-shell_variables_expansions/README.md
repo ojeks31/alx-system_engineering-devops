@@ -14,3 +14,4 @@ print all possible combination of two letters
 display the result of LOVE  raise to the power of BREATH
 add /action to a PATH
 combination
+print a float
