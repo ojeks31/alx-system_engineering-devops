@@ -1,2 +1,2 @@
 #!/bin/bash
-cat POWER=4 DIVIDE=2 | echo $((POWER / DIVIDE))
+ echo $(($POWER/$DIVIDE))
