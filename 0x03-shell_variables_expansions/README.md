@@ -15,3 +15,4 @@ display the result of LOVE  raise to the power of BREATH
 add /action to a PATH
 combination
 print a float
+100-decimal_to_hexadecimal
