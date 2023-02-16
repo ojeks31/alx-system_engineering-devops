@@ -17,3 +17,4 @@ combination
 print a float
 100-decimal_to_hexadecimal
 rot 13
+ script that prints every other line from the input, starting with the first line
